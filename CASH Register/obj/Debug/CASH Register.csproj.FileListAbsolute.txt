@@ -1,0 +1,12 @@
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.exe.config
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.exe
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.pdb
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.csprojResolveAssemblyReference.cache
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.exe
+c:\users\silviutudor\documents\visual studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.pdb
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.exe.config
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.exe
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.pdb
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.exe
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\bin\Debug\CASH Register.pdb
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\CASH Register\CASH Register\obj\Debug\CASH Register.csprojResolveAssemblyReference.cache
